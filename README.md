@@ -10,8 +10,6 @@ Clone repository into Your folder and follow instructions below.
 
 ## Deployment
 
-Clone repository into Your folder and follow instructions below.
-
 ```bash
   npm run dev
 ```
